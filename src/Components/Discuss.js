@@ -78,14 +78,6 @@ class Discuss extends Component {
         itemRef.remove();
     }
 
-
-
-
-
-
-
-
-
     render() {
         return (
             <div className="container">
