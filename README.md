@@ -16,6 +16,8 @@ and a dose of daily inspiration to keep us going.<br>
 The desire to achieve this led to the 
 development of Mental-Aid: A web application to help people with special mental needs
 
+<img src = "images/ss1.JPG">
+
 ### Methodology
 *__Module Wise Description__* <br>
 
@@ -34,6 +36,8 @@ People are the greatest resource of knowledge and the have amazing stories to sh
 `Module-5` <br>
 *__Mood tracking is a positive psychology technique for improving mental health where a person records their mood, usually at set time intervals, in order to help identify patterns in how their mood varies.__*
 The fifth module is a mood tracker which helps you to keep track of your thought patterns,<br> thus allowing you to take better care of yourself.
+
+<img src = "images/ss2.JPG">
 
 `Module-6` <br>
 A random quote generator to give you the daily dose of motivation!
