@@ -2,6 +2,8 @@
 # *__Mental-Aid__*
 *__A web app to help people with special mental needs especially in recent times of uncertainty.__*<br>
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 Video Demo: https://youtu.be/38-wMch4Mr8
 
