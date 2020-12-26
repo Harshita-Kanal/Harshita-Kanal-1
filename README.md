@@ -1,6 +1,6 @@
 
 # *__Mental-Aid__*
-*__A web app to help people with special mental needs especially in recent times of uncertainty.__*<br>
+<img src ="https://socialify.git.ci/Harshita-Kanal/MentalAid/image?description=1&descriptionEditable=A%20web%20app%20to%20help%20people%20with%20special%20mental%20needs%20especially%20in%20recent%20times%20of%20uncertainty.%20%E2%9D%A4&font=Raleway&language=1&owner=1&theme=Light" />
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
